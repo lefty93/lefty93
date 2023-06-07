@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/Wbivtk1wgyPDlT6Az7" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/xbox-game-death-stranding-cataclysmic-Wbivtk1wgyPDlT6Az7">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/QEUAY5OOjrgWROP24p/giphy.gif" width="50%" height="50%" />
+	<p><a href="https://giphy.com/gifs/xbox-game-death-stranding-cataclysmic-QEUAY5OOjrgWROP24p">via GIPHY</a></p>
+</div>
 
 #### Platform & Tools
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
