@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/Wbivtk1wgyPDlT6Az7" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/xbox-game-death-stranding-cataclysmic-Wbivtk1wgyPDlT6Az7">via GIPHY</a></p>
+
 #### Platform & Tools
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
@@ -15,5 +17,6 @@
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/profiles/76561198068122541)
 
 #### Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lefty93&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lefty93)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lefty93)](https://github.com/anuraghazra/github-readme-stats)
 
