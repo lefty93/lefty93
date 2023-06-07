@@ -22,3 +22,5 @@
 #### Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lefty93)](https://github.com/anuraghazra/github-readme-stats)
 
+#### Github Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=lefty93&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
