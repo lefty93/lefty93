@@ -14,3 +14,6 @@
 #### Console & Game
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/profiles/76561198068122541)
 
+#### Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lefty93&show_icons=true)
+
