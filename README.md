@@ -24,3 +24,6 @@
 
 #### Github Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=lefty93&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+#### Contact me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chu-seng-yong-68881b12b/)
