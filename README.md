@@ -1,4 +1,4 @@
-# Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hello+there&animation=fadeIn&color=random&fontColor=d6ace6)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QEUAY5OOjrgWROP24p/giphy.gif" width="50%" height="50%" />
